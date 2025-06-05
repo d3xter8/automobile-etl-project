@@ -1,0 +1,4 @@
+city_mpg,class,combination_mpg,cylinders,displacement,drive,fuel_type,highway_mpg,make,model,transmission,year
+this field is for premium subscribers only,midsize car,this field is for premium subscribers only,4,2.2,fwd,gas,this field is for premium subscribers only,toyota,camry,a,1993
+this field is for premium subscribers only,subcompact car,this field is for premium subscribers only,6,3.8,rwd,gas,this field is for premium subscribers only,ford,mustang,a,1994
+this field is for premium subscribers only,subcompact car,this field is for premium subscribers only,6,2.7,rwd,gas,this field is for premium subscribers only,bmw,3 series,a,1986
