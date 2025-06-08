@@ -8,6 +8,7 @@ This project performs ETL on car specification data using the API Ninjas car API
 - `etl/transform.py`: Cleans and filters the data
 - `etl/load.py`: Loads data into PostgreSQL
 - `main.py`: Orchestrates the full ETL pipeline
+- `run_etl.bat`: Automates daily ETL execution via task scheduler (optional)
 
 ## Setup
 
@@ -27,6 +28,10 @@ This project performs ETL on car specification data using the API Ninjas car API
 4. Run the ETL pipeline:
     ```bash
     python main.py
+    ```
+5. Automate the ETL pipeline (Optional):
+    ```bash
+    run_etl.bat
     ```
 
 ## License
