@@ -30,9 +30,7 @@ This project performs ETL on car specification data using the API Ninjas car API
     python main.py
     ```
 5. Automate the ETL pipeline (Optional):
-    ```bash
-    run_etl.bat
-    ```
+   Schedule the run_etl.bat file using Windows Task Scheduler to run the ETL process daily.
 
 ## License
 MIT
